@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AccessibiilityServiceExample</string>
+    <string name="accessibility_service_label">Undo Redo Text</string>
+    <string name="accessibility_service_description">this permission is used to capture text on screen</string>
+</resources>
